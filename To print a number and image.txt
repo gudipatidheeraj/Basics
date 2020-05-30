@@ -1,0 +1,10 @@
+// write your code here
+var x = 5;
+var y = x * 2;
+//ITs is the square of the numbers
+print(y);
+
+
+var img = new SimpleImage("drewgreen.png");
+print (img.getPixel(1,2));
+print(img);
